@@ -1,8 +1,8 @@
 # Задачи.
 
- Изучение языка JavaScript по современному учебнику learn.javascript.ru.
+Изучение языка JavaScript по современному учебнику learn.javascript.ru.
 
- **[learn.javascript.ru](https://learn.javascript.ru)**
+**[learn.javascript.ru](https://learn.javascript.ru)**
 
 ## Установка окружения.
 
@@ -43,4 +43,3 @@ npm ci
 - [Советы по стилю кода](https://learn.javascript.ru/coding-style)
 - [Комментарии](https://learn.javascript.ru/comments)
 - [Ниндзя-код](https://learn.javascript.ru/ninja-code)
-
