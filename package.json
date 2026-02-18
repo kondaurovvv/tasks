@@ -4,8 +4,8 @@
   "description": "Изучение языка JavaScript по современному учебнику learn.javascript.ru.",
   "main": "index.js",
   "scripts": {
-    "test": "jest ./*.*/test",
-    "test:watch": "jest ./*.*/test --watch",
+    "test": "jest ./*.*/test/",
+    "test:watch": "jest ./*.*/test/ --watch",
     "lint:js": "eslint ./*.*/",
     "lint:js:fix": "eslint ./*.*/ --fix",
     "lint:css": "stylelint \"./*.*/**/*.css\"",

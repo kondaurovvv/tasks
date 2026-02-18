@@ -4,8 +4,6 @@ const config = {
 }
 
 module.exports = {
-  testPathIgnorePatterns: [
-    '/node_modules/',
-    // "<rootDir>/3.5/"
-  ],
+  setupFiles: ['<rootDir>/jest.setup.js'],
+  testPathIgnorePatterns: ['/node_modules/', '<rootDir>/3.5/'],
 }
